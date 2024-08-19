@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="image/../images/lyricify_icon.png" width="200"/>
+<img src="image/../images/wira_logo_1.png" width="200"/>
 
 # Lyricify App
 
@@ -57,8 +57,7 @@ Lyricify 歌词处理部分已开源，详见[这里](#lyricify-open-source)。
 ## Lyricify 4
 <h3>More than lyrics 不仅有歌词</h3>  
 
-A fantastic app to provide auto-scrolling lyrics and additional functions for [Spotify](https://www.spotify.com).  
-一款为 Spotify 提供滚动歌词和更多功能的软件。
+WWWWWW
 
 *需要注意的是： Lyricify 4 仅支持 Spotify！*  
 
